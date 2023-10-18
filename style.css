@@ -1,0 +1,34 @@
+*{
+margin: 0;
+}
+
+header {
+   background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+}
+
+div {
+    border: solid red 1px;
+    width: 300px;
+}
+
+footer {
+    background-color: black;
+}
+
+li {
+    color: red;
+    list-style: none;
+}
